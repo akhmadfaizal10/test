@@ -1,7 +1,3 @@
-
-markdown
-Salin
-Edit
 <div align="center">
 
 # TEST  
@@ -62,27 +58,3 @@ Build **test** from the source and install dependencies:
 git clone https://github.com/akhmadfaizal10/test
 cd test
 npm install
-Usage
-Run the project with:
-
-bash
-Salin
-Edit
-npm start
-Testing
-Test uses the {test_framework} test framework. Run the test suite with:
-
-bash
-Salin
-Edit
-npm test
-⬆ Return to Top
-
-yaml
-Salin
-Edit
-
----
-
-Kalau kamu mau, bisa aku bantu tambahkan juga bagian seperti **License**, **Contributing**, atau bahkan template **Issue/PR** supaya README-nya makin lengkap. Tinggal bilang aja ya!
-::contentReference[oaicite:0]{index=0}
